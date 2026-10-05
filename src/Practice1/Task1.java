@@ -1,4 +1,4 @@
-package Practice1;
+package practice1;
 
 public class Task1 {
     long a = 1461;
